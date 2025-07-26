@@ -4,19 +4,19 @@ import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
     name: "Website Development",
-    projects: 76,
+    projects: 13,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
     name: "Mobile App development",
-    projects: 63,
+    projects: 2,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
     name: "Brand Identity",
-    projects: 47,
+    projects: 4,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
@@ -29,92 +29,45 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Techloset Solutions",
+    tenure: "Jan 2024 – May 2024",
+    role: "Frontend Developer Intern",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Developed and maintained key UI components for client-facing dashboards using ReactJS, HTML, CSS, and Bootstrap.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Aptech Learning Pakistan – Karachi, Pakistan",
+    tenure: "Sep 2022 – Dec2024",
+    role: "IT Instructor",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Delivered courses in HTML, CSS, JavaScript, PHP, and MySQL to diploma and certification students.Assisted in the creation of SAR (Self-Assessment Reports) for internal academic review processes",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "BitBox",
+    tenure: "June 2024 – Aug 2024",
+    role: "Website Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Created responsive and user-friendly frontend interfaces utilizing HTML, CSS, and JavaScript frameworks including Reactjs.",
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
+    name: "Aneeq Khatri",
+    post: "Senior Developer",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I thought it was impossible to make a website as beautiful as our product, but Qirat proved me wrong",
     img: "./people2.png",
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "I've never met a web developer who truly cares about their clients' success like Qirat does.",
     img: "./people1.png",
   },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
+
+
 ];
 
 export const sliderSettings = {
